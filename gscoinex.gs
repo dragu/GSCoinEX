@@ -1,4 +1,8 @@
+// Copyright (c)2017 Michal "gaco" Gacek, released under GPLv3 License
+
+// here you can set your timezone
 var timezone = 'GMT+1'
+// here you can set sheet name if you have a lot of sheets in one spreadsheet, otherwise autodetect function should work smooth
 var upsheet = ''
 
 
